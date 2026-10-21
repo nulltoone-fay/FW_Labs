@@ -1,0 +1,16 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark Background -->
+  <rect width="1200" height="630" fill="#050505"/>
+  <!-- Subtle Grid -->
+  <line x1="0" y1="315" x2="1200" y2="315" stroke="#333" stroke-width="1" stroke-dasharray="4 4"/>
+  <line x1="600" y1="0" x2="600" y2="630" stroke="#333" stroke-width="1" stroke-dasharray="4 4"/>
+  <!-- FW Graphic -->
+  <path d="M480 250 H550 V280 H510 V310 H540 V340 H510 V380 H480 V250 Z" fill="#FFFFFF"/>
+  <path d="M570 250 H600 L620 340 L640 250 H670 L690 340 L710 250 H740 L705 380 H675 L655 290 L635 380 H605 L570 250 Z" fill="#4ADE80"/>
+  <!-- Text -->
+  <text x="600" y="460" font-family="monospace" font-size="24" fill="#666" font-weight="bold" letter-spacing="8" text-anchor="middle">
+    ENGINEERING STUDIO
+  </text>
+  <!-- Accent Node -->
+  <circle cx="600" cy="315" r="4" fill="#4ADE80"/>
+</svg>
